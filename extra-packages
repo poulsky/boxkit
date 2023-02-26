@@ -22,6 +22,7 @@ ripgrep
 speedtest-cli
 starship
 vimdiff
+wl-clipboard
 zellij
 zstd
 htop
